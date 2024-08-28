@@ -1,0 +1,28 @@
+.rev{
+    background-color: #f6ffff;
+    border-radius: 30px;
+    padding: 80px 0px;
+    height: -webkit-fill-available;
+}
+.rev-user > i{
+    font-size: 40px;
+    background-color: #005acb;
+    padding: 45px 50px;
+    border-radius: 50%;
+}
+.rev-user h2{
+    font-size: 21px;
+    color: #000;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.rev-star i{
+    color:gold;
+    font-size: 25px;
+    margin: 20px 5px;
+}
+.rev-user p{
+    font-size: 19px;
+    font-weight: 400;
+    color: #465364;
+}

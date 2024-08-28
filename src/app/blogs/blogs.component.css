@@ -1,0 +1,11 @@
+.faqsbtn{
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 30px;
+    transition: .5s;
+}
+.faqsbtn:hover{
+    color: #fff;
+    background-color: #00aaab;
+}
